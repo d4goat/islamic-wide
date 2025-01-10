@@ -3,6 +3,7 @@
         <div class="flex justify-center mt-10">
             <div class="flex flex-col items-center gap-5">
                 <span class="text-7xl font-bold">Islamic Wide</span>
+                <Icon name="ci:add-plus-square" />
                 <span class="font-medium text-2xl capitalize">dapatkan pengetahuan tentang informasi islami dengan islamic wide</span>
             </div>
         </div>

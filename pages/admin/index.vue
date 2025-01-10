@@ -9,7 +9,11 @@
 </template>
 
 <script setup lang="ts">
-const formData = ref({
+definePageMeta({
+  middleware: "auth"
+})
+
+const formData = ref<any>({
 })
 
 const supabase = useSupabaseClient()
